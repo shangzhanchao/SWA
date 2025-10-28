@@ -1,0 +1,32 @@
+# 临时文件
+extracted_content.md
+extract_docx.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 编译文件
+*.pyc
+__pycache__/
+
+# 环境文件
+.env
+.venv/
+venv/
+
+# 文档生成
+docs/_build/
+site/
+
+# 图片缓存
+images/cache/
